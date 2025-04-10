@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:44:49 -0300] "GET /meu-projeto-jsp/ HTTP/1.1" 404 983 http-bio-8080-exec-1 38
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:44:50 -0300] "GET /meu-projeto-jsp/ HTTP/1.1" 404 983 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:45:07 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 404 1001 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:48:09 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 200 191 http-bio-8080-exec-1 337
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:53:30 -0300] "GET /index HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:53:31 -0300] "GET /index HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:53:36 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 200 191 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:53:46 -0300] "GET /meu-projeto-jsp HTTP/1.1" 302 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:53:46 -0300] "GET /meu-projeto-jsp/ HTTP/1.1" 200 191 http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:54:39 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 200 191 http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:54:42 -0300] "GET /meu-projeto-jsp/ HTTP/1.1" 200 191 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:54:48 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 200 191 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:57:34 -0300] "GET /index HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:11:59:27 -0300] "GET /meu-projeto-jsp/index HTTP/1.1" 200 191 http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:12:07:42 -0300] "GET /meu-projeto-jsp/ HTTP/1.1" 200 198 http-bio-8080-exec-3 88
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:12:08:23 -0300] "GET /meu-projeto-jsp/ HTTP/1.1" 200 209 http-bio-8080-exec-3 91
