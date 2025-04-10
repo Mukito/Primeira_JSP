@@ -31,14 +31,12 @@
             <scope>provided</scope>
         </dependency>
 <!--   Adicionado a 2 parte JSTL     -->
-        <!--   JSTL     -->
-<!--         
+        <!--   JSTL     -->       
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
--->
 <!--   Fim     -->
              
     </dependencies>
