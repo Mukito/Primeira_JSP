@@ -10,6 +10,9 @@ public class HomeServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+//        adicionada para dependencia JSTL
+        request.setAttribute("mensagem", "Ola Mukito Avancando nos estudos de JAVA");
+//        fim da adção                
         request.getRequestDispatcher("/index.jsp").forward(request, response);
     }
 }
